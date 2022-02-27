@@ -19,7 +19,7 @@ export default function App(){
   }, []);
 
   const handlePress = async () => {
-    console.log(data)
+    console.log(data);
   };
 
   function sleep(ms) {
